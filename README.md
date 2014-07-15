@@ -1,0 +1,4 @@
+SmartSensor
+===========
+
+SmartSensor reference implementation
